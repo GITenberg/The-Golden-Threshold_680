@@ -1,0 +1,37 @@
+_repo: The-Golden-Threshold_680
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Symons, Arthur
+    birthdate: 1865
+    deathdate: 1945
+    gutenberg_agent_id: '347'
+    url: http://www.gutenberg.org/2009/agents/347
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Symons
+creator:
+  author:
+    agent_name: Naidu, Sarojini
+    aliases:
+    - Naidu, Sarojini Chattopadhyay
+    - Devi, Sarojini
+    birthdate: 1879
+    deathdate: 1949
+    gutenberg_agent_id: '346'
+    url: http://www.gutenberg.org/2009/agents/346
+    wikipedia: http://en.wikipedia.org/wiki/Sarojini_Naidu
+description: ''
+gutenberg_bookshelf: India
+gutenberg_issued: '1996-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '680'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indic poetry (English)'
+- !lcc 'PK'
+- GITenberg
+title: The Golden Threshold
+url: http://www.gutenberg.org/ebooks/680
