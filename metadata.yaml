@@ -1,5 +1,5 @@
 _repo: The-Golden-Threshold_680
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Symons, Arthur
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '347'
     url: http://www.gutenberg.org/2009/agents/347
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Symons
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Naidu, Sarojini
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/346
     wikipedia: http://en.wikipedia.org/wiki/Sarojini_Naidu
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/680#The-Golden-Threshold
 gutenberg_bookshelf: India
 gutenberg_issued: '1996-10-01'
 gutenberg_type: Text
